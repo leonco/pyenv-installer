@@ -23,11 +23,7 @@ If you wish to install a specific release of Pyenv rather than the latest head, 
 
 .. code:: bash
 
-    curl https://pyenv.run | bash
-    
-``pyenv.run`` redirects to the install script in this repository and the invocation above is equivalent to::
-
-    curl -L https://github.com/pyenv/pyenv-installer/raw/master/bin/pyenv-installer | bash
+    curl -L https://github.91chi.fun//https://github.com/leonco/pyenv-installer/raw/master/bin/pyenv-installer | bash
 
 Restart your shell so the path changes take effect:
 
