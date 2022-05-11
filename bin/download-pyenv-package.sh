@@ -11,7 +11,7 @@ fi
 TMP_DIR=$(mktemp -d)
 
 if [ -n "${USE_HTTPS}" ]; then
-  GITHUB="https://github.com"
+  GITHUB="https://github.91chi.fun//https://github.com"
 else
   GITHUB="git://github.com"
 fi
