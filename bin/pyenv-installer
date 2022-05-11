@@ -40,7 +40,7 @@ fi
 if [ -n "${USE_GIT_URI}" ]; then
   GITHUB="git://github.com"
 else
-  GITHUB="https://github.com"
+  GITHUB="https://github.91chi.fun//https://github.com"
 fi
 
 checkout "${GITHUB}/pyenv/pyenv.git"            "${PYENV_ROOT}"                           "${PYENV_GIT_TAG:-master}"
